@@ -14,7 +14,10 @@ This project demonstrates my ability to create **modern and functional web inter
 ## 🛠 Technologies Used
 - HTML5  
 - CSS3  
-- JavaScript  
+- JavaScript
+
+## 🎬 Live Demo
+Check out the live version here: https://portfolio-mjnxgu5mg-stevens-projects-7026d720.vercel.app/
 
 ## 💡 How to Use
 1. Clone this repository:  
